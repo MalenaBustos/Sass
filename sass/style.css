@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Mingzat&family=Open+Sans:ital,wght@0,400;0,500;1,300&display=swap");
+.botonera {
+  background-color: #bf9780;
+}
+.botonera div div a {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2em;
+  color: #0F0E0E;
+}
+
+.body {
+  background-color: #faf3ed;
+}
+
+.main_div2_maps {
+  display: flex;
+  justify-content: center;
+  padding: 20px 20px;
+}
+
+.main_img {
+  width: 70%;
+}
+
+.transform_img:hover {
+  cursor: pointer;
+  transform: scaleX(0.9);
+  transform: scaleY(0.9);
+}
+
+.footer_div1 {
+  background-color: #b59d83;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer__img {
+  display: flex;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  justify-content: flex-end;
+}
+
+/*=======================================autor*/
+.div2_p {
+  color: #0F0E0E;
+  background-color: #d8af97;
+  font-size: 1.1em;
+}/*# sourceMappingURL=style.css.map */

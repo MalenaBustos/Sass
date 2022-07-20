@@ -1,0 +1,21 @@
+.body{
+	background-color:$thirdColor;
+}
+
+//MAPA DE INDEX Y NOSOTROS
+.main_div2_maps{
+
+	display: flex;
+	justify-content: center;
+	padding:20px 20px;
+}
+// iMAGENES DEL MAIN
+.main_img{
+    width: 70%;    
+}
+
+.div_p{
+	font-size:$textXl ;
+	font-family:$secondaryFont ;
+	font-weight: $bold;
+}
